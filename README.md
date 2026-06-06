@@ -17,12 +17,7 @@ I enjoy transforming ideas into practical solutions — from training ML models 
 #  GitHub Stats:
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tirth-Upadhyay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-Upadhyay&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth-Upadhyay&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tirth-Upadhyay&theme=tokyonight" />
 </p>
 
 ###  Dev Quote
