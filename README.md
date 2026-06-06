@@ -19,6 +19,9 @@ I enjoy transforming ideas into practical solutions — from training ML models 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tirth-Upadhyay&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tirth-Upadhyay&theme=tokyonight&hide_border=true" />
+</p>
 
 ###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
