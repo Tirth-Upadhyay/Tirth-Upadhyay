@@ -19,9 +19,23 @@ I enjoy transforming ideas into practical solutions — from training ML models 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tirth-Upadhyay&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tirth-Upadhyay&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Tirth-Upadhyay&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-metrics.vercel.app/Tirth-Upadhyay/plugin.achievements.svg?theme=dracula" height="150" alt="achievements metrics" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth-Upadhyay&theme=dracula&bg_color=1d1e2a&hide_border=true" width="100%" alt="activity graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tirth-Upadhyay&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tirth-Upadhyay&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
 
 ###  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
