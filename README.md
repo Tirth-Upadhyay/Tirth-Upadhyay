@@ -1,5 +1,12 @@
 #  About Me:
-Hi, I'm Tirth 👋<br><br>I'm a Computer Science undergraduate specializing in AI & Data Science, passionate about building intelligent systems that solve real-world problems. My interests span Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, Edge AI, Data Analysis, and Full-Stack Development.<br>I enjoy transforming ideas into practical solutions — from training ML models and developing multilingual voice assistants to building scalable web applications. As a curious learner and hands-on developer, I love exploring the intersection of research and software engineering while continuously expanding my technical skills.<br><br>* Currently exploring AI-powered applications, NLP systems, and end-to-end software development.<br><br>* Always excited to collaborate on innovative projects and contribute to impactful technology.
+## Hi, I'm Tirth 👋
+
+I'm a Computer Science undergraduate specializing in AI & Data Science, passionate about building intelligent systems that solve real-world problems. My interests span Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, Edge AI, Data Analysis, and Full-Stack Development.
+
+I enjoy transforming ideas into practical solutions — from training ML models and developing multilingual voice assistants to building scalable web applications. As a curious learner and hands-on developer, I love exploring the intersection of research and software engineering while continuously expanding my technical skills.
+
+-  Currently exploring AI-powered applications, NLP systems, and end-to-end software development.
+-  Always excited to collaborate on innovative projects and contribute to impactful technology.
 
 
 ##  Socials:
